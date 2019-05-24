@@ -2,6 +2,6 @@ def catch_phrase(phrase)
   puts phrase
 end
 
-phrase = "YO YO"
+send_me = "YO YO"
 
 catch_phrase(phrase)
