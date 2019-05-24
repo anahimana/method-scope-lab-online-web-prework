@@ -3,3 +3,5 @@ def catch_phrase(phrase)
 end
 
 phrase = "YO YO"
+
+catch_phrase(phrase)
