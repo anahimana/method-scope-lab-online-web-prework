@@ -4,4 +4,4 @@ end
 
 send_me = "YO YO"
 
-catch_phrase(phrase)
+catch_phrase(send_me)
